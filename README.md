@@ -4,7 +4,7 @@
 
 - André Debiazzi - RM569062
 - Kaique da Silva Assis - RM572718
-- Vinicius Cristal de Oliveira - RM572048
+- Vinicius Cristal de Oliveira - RM572049
 
 ## Descrição
 
